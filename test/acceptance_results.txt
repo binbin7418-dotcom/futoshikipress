@@ -1,0 +1,11 @@
+[PASS] counts: 6 puzzles (6)
+[PASS] sizes follow difficulty (5/6/7) ([5, 6, 7, 5, 6, 7])
+[PASS] every puzzle: exactly one solution (independent plain backtracker), equal to printed solution 
+[PASS] every printed sign is true of the solution 
+[PASS] digging actually removed givens on every puzzle (givens: [11, 11, 10, 11, 11, 10])
+[PASS] signs were dug too (not all signs printed) (signs: [28, 33, 33, 28, 33, 33])
+[PASS] PDF 612x792pt, pages = title + 6 puzzles + solutions header + 6 solutions (14 pages)
+[PASS] 6-puzzle mixed book builds in under 120s (0.6s)
+[PASS] deterministic for fixed seed 
+
+9/9 PASS
